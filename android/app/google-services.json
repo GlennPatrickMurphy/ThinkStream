@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "342740718205",
+    "firebase_url": "https://thinkstationapp.firebaseio.com",
+    "project_id": "thinkstationapp",
+    "storage_bucket": "thinkstationapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342740718205:android:552319cddc4e8076379714",
+        "android_client_info": {
+          "package_name": "com.thinkstation.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342740718205-no7g9sa7dausho6g5cc2k2984al9suhv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB237eAnOIwIALC0Rlp0gDGA5pQEaJ9XPI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342740718205-no7g9sa7dausho6g5cc2k2984al9suhv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

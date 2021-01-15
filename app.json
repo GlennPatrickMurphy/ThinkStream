@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "ThinkStation",
+    "slug": "ThinkStation",
+    "icon": "icon.png",
+    "privacy": "public",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.2.1",
+    "orientation": "portrait",
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "ios": {
+      "bundleIdentifier": "com.thinkstation.thinkstation",
+      "buildNumber": "1.2.1",
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.thinkstation.android",
+      "googleServicesFile": "./google-services.json",
+      "versionCode": 8,
+      "permissions": []
+    },
+    "description": "1.2.1",
+    "githubUrl": "https://github.com/glennsvrobotics/ThinkStation/tree/master",
+    "sdkVersion": "38.0.0"
+  }
+}
